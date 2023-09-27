@@ -19,7 +19,7 @@ body {
     height: 100%;
     position: absolute;
     transform-style: preserve-3d;
-    animation: spin 7s linear infinite; 
+    animation: spin 10s linear infinite; 
 }
 
 .side {
